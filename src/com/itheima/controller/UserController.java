@@ -5,5 +5,7 @@ public class UserController {
         System.out.println("宝儿姐");
         System.out.println("王也");
         System.out.println("张楚岚");
+
+        System.out.println("老天师");
     }
 }
